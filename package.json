@@ -1,0 +1,24 @@
+{
+  "name": "tachiyomilist",
+  "version": "1.0.0",
+  "description": "Gets all sources from Tachiyomi multiextensions",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ardittristan",
+  "license": "",
+  "dependencies": {
+    "better-pastebin": "^0.4.1",
+    "cli-table": "^0.3.1",
+    "delay": "^4.3.0",
+    "git": "^0.1.5",
+    "install": "^0.13.0",
+    "simple-git": "^1.126.0",
+    "strip-ansi": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/cli-table": "^0.3.0"
+  }
+}
